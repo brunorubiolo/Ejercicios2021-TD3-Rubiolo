@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/CMakeFiles/bootloader
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/UTN/repositorios/Ej1-SecuenciaLed/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
