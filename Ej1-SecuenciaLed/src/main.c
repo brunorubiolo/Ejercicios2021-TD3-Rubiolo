@@ -5,4 +5,3 @@ void app_main() {
 //hola
 
 }
-void bruno() {}
