@@ -13,8 +13,6 @@ void app_main() {
     adc1_config_width(ADC_WIDTH_12Bit); //configuran la resoluncion 
     adc1_config_channel_atten (ADC1_CHANNEL_0 ,ADC_ATTEN_DB_0);
    
-   //configuro el adc2
-    adc2_config_channel_atten (ADC2_CHANNEL_0, ADC_ATTEN_DB_0);
     
     //configuro el conversor digital analogico
     dac_output_enable(DAC_CHANNEL_1);
