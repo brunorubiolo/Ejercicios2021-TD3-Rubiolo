@@ -7,8 +7,7 @@
 
 void app_main() {
 
-    //funcion configurar led
-    configurarLed(); //le mando los pines de conexion de leds
+
     //funcion iniciar semaforo
     iniciarSemaforo();
     
