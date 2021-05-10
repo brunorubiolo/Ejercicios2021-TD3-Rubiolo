@@ -11,6 +11,9 @@
  *     la que me crea la nueva tarea led, la ejecuto al mismo tiempo que la otra, con un delay bloquante.
  *     Una vez finalizada la destruyo.
  * 
+ *      Adjunto imagenes del funcionamiento: Canal 2 es la entrada (Pulsador) 
+ *                                           Canal 1 es la salida (Led)
+ * 
  *===========================================================================*/
 
 #include <stdio.h>
