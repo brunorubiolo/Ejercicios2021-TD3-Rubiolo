@@ -43,11 +43,14 @@ void Iniciar_Led(){
 
 void tareaLed( void* taskParmPtr )
     {   
+        while (true){
+
         TickType_t xPeriodicity =  PERIODO;			// Tarea periodica cada 1000 ms
 
         TickType_t xLastWakeTime = xTaskGetTickCount();
 
-        if(xSemaphoreTake( semaforo , 10) == pdTRUE){
+        
+        if(xSemaphoreTake( semaforo, pdMS_TO_TICKS(10) ) == pdTRUE){
             
             gpio_set_level( SALIDA2, 0 );
             gpio_set_level( SALIDA1, 1 );
@@ -63,6 +66,6 @@ void tareaLed( void* taskParmPtr )
         }
             
         vTaskDelayUntil( &xLastWakeTime , xPeriodicity );
-
+        }
         
     }
