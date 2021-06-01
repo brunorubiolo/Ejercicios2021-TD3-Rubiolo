@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16.0)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(Ej7-AntirreboteMEF)
+project(Ej7-SemaforoAntirrebote)
